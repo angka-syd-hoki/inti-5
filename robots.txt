@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://angka-syd-hoki.github.io/inti-5/sitemap.xml
